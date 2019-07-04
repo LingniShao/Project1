@@ -1,0 +1,4 @@
+The main.R file includes the main code for analysis, including loading data, desrciptive analysis, step-wise linear regression and feedforward neural networks;
+The FnnBase.R is the code for declaring the structure of baseline FNN model so that tuning_run() can be used to do grid search;
+The FnnBase.R is the code for declaring the structure of two-layer FNN model so that tuning_run() can be used to do random search;
+Attention is required to set the correct working directory path;
